@@ -310,11 +310,11 @@ LIMIT 1;
 
 ### Overview Dashboard
 
-![Overview Dashboard](Dashboard-Screenshots/Overview.jpg)
+![Overview Dashboard](Dashboard-Screenshots/overview.jpg)
 
 ### Insights Dashboard
 
-![Insights Dashboard](Dashboard-Screenshots/Insights.jpg)
+![Insights Dashboard](Dashboard-Screenshots/insights.jpg)
 
 ### Detailed-Insights Dashboard
 
