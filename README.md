@@ -50,7 +50,7 @@ Performed Advanced analysis to find  insights such as:
 * Exported the cleaned tables as CSVs from PostgreSQL.
 * Imported the cleaned dataset into Power BI, establishing a star-schema data model.
 * Utilized intermediate DAX measures for calculating KPIs (Total Revenue, AOV, % Contributions).
-* Designed a two-page interactive dashboard (Overview & Detailed Analysis).
+* Designed a  interactive dashboard (Overview & Detailed Analysis).
 
 ---
 
@@ -310,12 +310,10 @@ LIMIT 1;
 
 ### Overview Dashboard
 
-![Overview Dashboard](Dashboard-Screenshots/overview.jpg)
+![Overview Dashboard](Dashboard-Screenshots/overviews.jpg)
 
 ### Insights Dashboard
 
-![Insights Dashboard](Dashboard-Screenshots/insights.jpg)
+![Insights Dashboard](Dashboard-Screenshots/insight.jpg)
 
-### Detailed-Insights Dashboard
 
-![Category Analysis Dashboard](Dashboard-Screenshots/Detailed-insights.jpg)
